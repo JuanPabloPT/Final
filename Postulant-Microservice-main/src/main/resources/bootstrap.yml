@@ -1,6 +1,6 @@
 spring:
   application:
-    name: jobOffer-service
+    name: postulant-service
   cloud:
     config:
       uri: http://localhost:8081
